@@ -1,0 +1,11 @@
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemOutOfStockEventSource.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\entity\ProductInventory.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\InventoryServiceApplication.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\controller\InventoryVerticle.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\repository\ProductInventoryRepository.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\message\ItemEvent.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\kafka\source\ItemFetchedEventSource.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\service\InventoryService.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\config\InitializerConfig.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\service\ProductInventoryService.java
+D:\SAGA_EXAMPLES\orchestration-microservices-transaction\inventory-service\src\main\java\com\techrocking\inventory\controller\OrderRequest.java

@@ -1,0 +1,16 @@
+
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(×À»Íıÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(³¥³üÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Áë¢úÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ô…ãİÿÿÿÿÿ
+\
+java:S3457:"AFormat specifiers should be used instead of string concatenation.(­Ù¬„şÿÿÿÿ
+m
+java:S37763"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.( İäÂüÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ıöëŞ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(‡«Ç¡øÿÿÿÿ
+W
+java:S3457="AFormat specifiers should be used instead of string concatenation.(’æÏ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(¡¢¯˜üÿÿÿÿ
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(É§ûíúÿÿÿÿ8–ˆ®Û“/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(¥½Éıÿÿÿÿ8–ˆ®Û“/

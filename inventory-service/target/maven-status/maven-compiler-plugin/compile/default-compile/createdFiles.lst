@@ -1,0 +1,12 @@
+com\techrocking\inventory\controller\OrderRequest.class
+com\techrocking\inventory\service\ProductInventoryService.class
+com\techrocking\inventory\kafka\message\ItemEvent$Action.class
+com\techrocking\inventory\service\InventoryService.class
+com\techrocking\inventory\kafka\message\ItemEvent.class
+com\techrocking\inventory\InventoryServiceApplication.class
+com\techrocking\inventory\controller\InventoryVerticle.class
+com\techrocking\inventory\config\InitializerConfig.class
+com\techrocking\inventory\kafka\source\ItemFetchedEventSource.class
+com\techrocking\inventory\kafka\source\ItemOutOfStockEventSource.class
+com\techrocking\inventory\entity\ProductInventory.class
+com\techrocking\inventory\repository\ProductInventoryRepository.class

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/io/reactivex/rxjava2/rxjava/2.2.12/rxjava-2.2.12.jar!/io/reactivex/Single.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/io/vertx/vertx-core/4.0.2/vertx-core-4.0.2.jar!/io/vertx/core/Future.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/io/vertx/vertx-rx-java2/4.0.0/vertx-rx-java2-4.0.0.jar!/io/vertx/reactivex/circuitbreaker/CircuitBreaker.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/io/vertx/vertx-rx-java2/4.0.0/vertx-rx-java2-4.0.0.jar!/io/vertx/reactivex/ext/web/client/WebClient.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/inventory-service/src/main/java/com/techrocking/inventory/kafka/source/ItemFetchedEventSource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/orchestrator-service/src/main/java/com/techrocking/orchestrator/config/InitializerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/orchestrator-service/src/main/java/com/techrocking/orchestrator/listener/DeliveryReceivedEventListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/orchestrator-service/src/main/java/com/techrocking/orchestrator/listener/ItemFetchedEventListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/orchestrator-service/src/main/java/com/techrocking/orchestrator/listener/ItemOutOfStockListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/orchestrator-service/src/main/java/com/techrocking/orchestrator/repository/OrderOrchRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
